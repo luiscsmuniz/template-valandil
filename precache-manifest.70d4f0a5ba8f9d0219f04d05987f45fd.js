@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff905a1314bb0c1281a68c0a7164a51c",
+    "revision": "d60fbbea7f2aa1c34a0cd01b0fc8d905",
     "url": "/template-valandil/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/template-valandil/static/css/2.d0176e96.chunk.css"
   },
   {
-    "revision": "5f2fcac6c521639eecc8",
+    "revision": "8c012c6f9d209f1eaaf8",
     "url": "/template-valandil/static/css/main.0fa7ec49.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/template-valandil/static/js/2.a0218c95.chunk.js"
   },
   {
-    "revision": "5f2fcac6c521639eecc8",
-    "url": "/template-valandil/static/js/main.ac1e7011.chunk.js"
+    "revision": "8c012c6f9d209f1eaaf8",
+    "url": "/template-valandil/static/js/main.623babe8.chunk.js"
   },
   {
     "revision": "1c0c92ca01c5805d4794",

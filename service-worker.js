@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/template-valandil/precache-manifest.adf6447cbe612314849ed2caee46a8e1.js"
+  "/template-valandil/precache-manifest.70d4f0a5ba8f9d0219f04d05987f45fd.js"
 );
 
 self.addEventListener('message', (event) => {
