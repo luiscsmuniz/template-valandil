@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/template-valandil/static/css/main.0fa7ec49.chunk.css",
-    "main.js": "/template-valandil/static/js/main.2c539a78.chunk.js",
-    "main.js.map": "/template-valandil/static/js/main.2c539a78.chunk.js.map",
+    "main.js": "/template-valandil/static/js/main.ac1e7011.chunk.js",
+    "main.js.map": "/template-valandil/static/js/main.ac1e7011.chunk.js.map",
     "runtime~main.js": "/template-valandil/static/js/runtime~main.6121e450.js",
     "runtime~main.js.map": "/template-valandil/static/js/runtime~main.6121e450.js.map",
     "static/css/2.d0176e96.chunk.css": "/template-valandil/static/css/2.d0176e96.chunk.css",
     "static/js/2.a0218c95.chunk.js": "/template-valandil/static/js/2.a0218c95.chunk.js",
     "static/js/2.a0218c95.chunk.js.map": "/template-valandil/static/js/2.a0218c95.chunk.js.map",
     "index.html": "/template-valandil/index.html",
-    "precache-manifest.767521736d5b69099074471db28d7414.js": "/template-valandil/precache-manifest.767521736d5b69099074471db28d7414.js",
+    "precache-manifest.adf6447cbe612314849ed2caee46a8e1.js": "/template-valandil/precache-manifest.adf6447cbe612314849ed2caee46a8e1.js",
     "service-worker.js": "/template-valandil/service-worker.js",
     "static/css/2.d0176e96.chunk.css.map": "/template-valandil/static/css/2.d0176e96.chunk.css.map",
     "static/css/main.0fa7ec49.chunk.css.map": "/template-valandil/static/css/main.0fa7ec49.chunk.css.map",
