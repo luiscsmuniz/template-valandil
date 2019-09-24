@@ -44,7 +44,7 @@
   "bugs": {
     "url": "https://github.com/luiscsmuniz/template-valandil/issues"
   },
-  "homepage": "https://luiscsmuniz.github.io/template-valandil/#/",
+  "homepage": "https://luiscsmuniz.github.io/",
   "optionalDependencies": {
     "@types/googlemaps": "3.37.3",
     "@types/markerclustererplus": "2.1.33",
